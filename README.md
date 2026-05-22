@@ -8,7 +8,7 @@ This project builds a dynamic allocation strategy that detects market regimes wi
 - Dynamic allocation backtester with strict walk-forward validation.
 - Explicit transaction cost model using a 10 bps turnover penalty per rebalance.
 - Performance tear sheet with Sharpe, Sortino, max drawdown, Calmar ratio, annual return, volatility, and turnover.
-- Jupyter notebook covering data ingestion, regime detection, optimization, backtesting, and reporting.
+- Jupyter notebook covering data ingestion, regime detection, optimization, backtesting, and performance analysis including the tear sheet.
 - Reproducible Python modules and README.
 
 ## Project Structure
